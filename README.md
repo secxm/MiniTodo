@@ -23,7 +23,7 @@
 | 系统托盘 | [pystray](https://github.com/moses-palmer/pystray) |
 | 图标生成 | [Pillow](https://python-pillow.org/) |
 | 前端 UI | HTML5 + CSS3 + Vanilla JS + Bootstrap 5 |
-| 打包 | Nuitka（推荐）/ PyInstaller |
+| 打包 | Nuitka（推荐） |
 | 包管理 | [uv](https://github.com/astral-sh/uv) |
 
 ## 快速开始
